@@ -1,1 +1,3 @@
-
+- using ESP32-WROOM-32
+- etc ion xe 20 for artnet
+- 
